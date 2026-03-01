@@ -1,0 +1,9 @@
+/home/duxa/code/chess/target/debug/deps/epaint_default_fonts-e26400d0e8576e34.d: /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/epaint_default_fonts-0.33.3/src/lib.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/epaint_default_fonts-0.33.3/src/../fonts/Hack-Regular.ttf /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/epaint_default_fonts-0.33.3/src/../fonts/NotoEmoji-Regular.ttf /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/epaint_default_fonts-0.33.3/src/../fonts/Ubuntu-Light.ttf /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/epaint_default_fonts-0.33.3/src/../fonts/emoji-icon-font.ttf
+
+/home/duxa/code/chess/target/debug/deps/libepaint_default_fonts-e26400d0e8576e34.rmeta: /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/epaint_default_fonts-0.33.3/src/lib.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/epaint_default_fonts-0.33.3/src/../fonts/Hack-Regular.ttf /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/epaint_default_fonts-0.33.3/src/../fonts/NotoEmoji-Regular.ttf /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/epaint_default_fonts-0.33.3/src/../fonts/Ubuntu-Light.ttf /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/epaint_default_fonts-0.33.3/src/../fonts/emoji-icon-font.ttf
+
+/home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/epaint_default_fonts-0.33.3/src/lib.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/epaint_default_fonts-0.33.3/src/../fonts/Hack-Regular.ttf:
+/home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/epaint_default_fonts-0.33.3/src/../fonts/NotoEmoji-Regular.ttf:
+/home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/epaint_default_fonts-0.33.3/src/../fonts/Ubuntu-Light.ttf:
+/home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/epaint_default_fonts-0.33.3/src/../fonts/emoji-icon-font.ttf:

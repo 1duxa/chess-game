@@ -1,0 +1,10 @@
+/home/duxa/code/chess/target/debug/deps/accesskit_consumer-294de885ebf96abf.d: /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.31.0/src/lib.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.31.0/src/tree.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.31.0/src/node.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.31.0/src/filters.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.31.0/src/iterators.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.31.0/src/text.rs
+
+/home/duxa/code/chess/target/debug/deps/libaccesskit_consumer-294de885ebf96abf.rmeta: /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.31.0/src/lib.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.31.0/src/tree.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.31.0/src/node.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.31.0/src/filters.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.31.0/src/iterators.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.31.0/src/text.rs
+
+/home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.31.0/src/lib.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.31.0/src/tree.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.31.0/src/node.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.31.0/src/filters.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.31.0/src/iterators.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.31.0/src/text.rs:

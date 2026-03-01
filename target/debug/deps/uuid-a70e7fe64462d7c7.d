@@ -1,0 +1,14 @@
+/home/duxa/code/chess/target/debug/deps/uuid-a70e7fe64462d7c7.d: /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/lib.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/macros.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/builder.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/error.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/non_nil.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/parser.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/fmt.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/timestamp.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/external.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/external/serde_support.rs
+
+/home/duxa/code/chess/target/debug/deps/libuuid-a70e7fe64462d7c7.rmeta: /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/lib.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/macros.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/builder.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/error.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/non_nil.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/parser.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/fmt.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/timestamp.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/external.rs /home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/external/serde_support.rs
+
+/home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/lib.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/macros.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/builder.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/error.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/non_nil.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/parser.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/fmt.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/timestamp.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/external.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.21.0/src/external/serde_support.rs:
